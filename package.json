@@ -1,0 +1,23 @@
+{
+  "name": "testing-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rebelzob/testing-jest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rebelzob/testing-jest/issues"
+  },
+  "homepage": "https://github.com/Rebelzob/testing-jest#readme",
+  "devDependencies": {
+    "jest": "^29.6.1"
+  }
+}
